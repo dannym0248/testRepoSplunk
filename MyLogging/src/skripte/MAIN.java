@@ -6,7 +6,9 @@ public class MAIN {
 	System.out.println("Test");
 	System.out.println("jetzt wird gerechnet!");
 	System.out.println("1 + 1 ist 2. ");
-	// version 1.0
+
+	System.out.println("3*3 ist 9");
+	// version 1.1
     }
 
 }
